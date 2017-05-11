@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\nenê\documents\visual studio 2015\projects\fatec\listan3-3\listan3-3\source.c(15): warning C4013: '_getch' undefined; assuming extern returning int
+  ListaN3-3.vcxproj -> C:\Users\Nenê\Documents\Visual Studio 2015\Projects\Fatec\ListaN3-3\Debug\ListaN3-3.exe
+  ListaN3-3.vcxproj -> C:\Users\Nenê\Documents\Visual Studio 2015\Projects\Fatec\ListaN3-3\Debug\ListaN3-3.pdb (Partial PDB)
